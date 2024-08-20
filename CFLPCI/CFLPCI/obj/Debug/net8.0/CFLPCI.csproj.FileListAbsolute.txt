@@ -1,0 +1,15 @@
+C:\Users\adeni\Doktorske\CFLPCI\CFLPCI\CFLPCI\CFLPCI\bin\Debug\net8.0\CFLPCI.exe
+C:\Users\adeni\Doktorske\CFLPCI\CFLPCI\CFLPCI\CFLPCI\bin\Debug\net8.0\CFLPCI.deps.json
+C:\Users\adeni\Doktorske\CFLPCI\CFLPCI\CFLPCI\CFLPCI\bin\Debug\net8.0\CFLPCI.runtimeconfig.json
+C:\Users\adeni\Doktorske\CFLPCI\CFLPCI\CFLPCI\CFLPCI\bin\Debug\net8.0\CFLPCI.dll
+C:\Users\adeni\Doktorske\CFLPCI\CFLPCI\CFLPCI\CFLPCI\bin\Debug\net8.0\CFLPCI.pdb
+C:\Users\adeni\Doktorske\CFLPCI\CFLPCI\CFLPCI\CFLPCI\obj\Debug\net8.0\CFLPCI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adeni\Doktorske\CFLPCI\CFLPCI\CFLPCI\CFLPCI\obj\Debug\net8.0\CFLPCI.AssemblyInfoInputs.cache
+C:\Users\adeni\Doktorske\CFLPCI\CFLPCI\CFLPCI\CFLPCI\obj\Debug\net8.0\CFLPCI.AssemblyInfo.cs
+C:\Users\adeni\Doktorske\CFLPCI\CFLPCI\CFLPCI\CFLPCI\obj\Debug\net8.0\CFLPCI.csproj.CoreCompileInputs.cache
+C:\Users\adeni\Doktorske\CFLPCI\CFLPCI\CFLPCI\CFLPCI\obj\Debug\net8.0\CFLPCI.sourcelink.json
+C:\Users\adeni\Doktorske\CFLPCI\CFLPCI\CFLPCI\CFLPCI\obj\Debug\net8.0\CFLPCI.dll
+C:\Users\adeni\Doktorske\CFLPCI\CFLPCI\CFLPCI\CFLPCI\obj\Debug\net8.0\refint\CFLPCI.dll
+C:\Users\adeni\Doktorske\CFLPCI\CFLPCI\CFLPCI\CFLPCI\obj\Debug\net8.0\CFLPCI.pdb
+C:\Users\adeni\Doktorske\CFLPCI\CFLPCI\CFLPCI\CFLPCI\obj\Debug\net8.0\CFLPCI.genruntimeconfig.cache
+C:\Users\adeni\Doktorske\CFLPCI\CFLPCI\CFLPCI\CFLPCI\obj\Debug\net8.0\ref\CFLPCI.dll

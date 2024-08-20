@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BbLKOZn5CiI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adeni\\Doktorske\\CFLPCI\\CFLPCI\\CFLPCI\\CFLPCI\\CFLPCI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adeni\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.7\\microsoft.dotnet.ilcompiler.8.0.7.nupkg.sha512",
+    "C:\\Users\\adeni\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.7\\microsoft.net.illink.tasks.8.0.7.nupkg.sha512",
+    "C:\\Users\\adeni\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.7\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
